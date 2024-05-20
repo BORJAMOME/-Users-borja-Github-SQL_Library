@@ -19,31 +19,31 @@ The system uses the following tables in the database:
 
 The system provides the following SQL queries to perform various tasks:
 
-**✅ Total number of books in the database.
+✅ **Total number of books in the database.**
 
-**✅ Total number of users registered in the library.
+✅ **Total number of users registered in the library.**
 
-**✅ Number of books borrowed by a specific user.
+✅ **Number of books borrowed by a specific user.**
 
-**✅ Books borrowed by a particular user.
+✅ **Books borrowed by a particular user.**
 
-**✅ How many books have been returned and how many are still on loan?
+✅ **How many books have been returned and how many are still on loan?**
 
-**✅ The most prolific author in the database.
+✅ **The most prolific author in the database.**
 
-**✅ The oldest book in the database.
+✅ **The oldest book in the database.**
 
-**✅ Total number of loans made in the database.
+✅ **Total number of loans made in the database.**
 
-**✅ How many books are currently on loan?
+✅ **How many books are currently on loan?**
 
-**✅ How many books a particular user has borrowed in a specific year?
+✅ **How many books a particular user has borrowed in a specific year?**
 
-**✅ The most popular book in the database (the most borrowed).
+✅ **The most popular book in the database (the most borrowed).**
 
-**✅ Next due date for a borrowed book.
+✅ **Next due date for a borrowed book.**
 
-**✅ The user who has borrowed the most books overall.
+✅ **The user who has borrowed the most books overall.**
 
 ## Author
 
