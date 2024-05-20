@@ -7,7 +7,7 @@ This project is a library management system developed using SQL for the database
 
 ## Database Structure
 
-The system utilizes the following tables in the database:
+The system uses the following tables in the database:
 
 - `users`: Stores information about users registered in the library.
 - `books`: Contains details about the books available in the library.
@@ -19,35 +19,31 @@ The system utilizes the following tables in the database:
 
 The system provides the following SQL queries to perform various tasks:
 
-**✅ T**otal number of books in the database.
+**✅ Total number of books in the database.
 
-**✅ T**otal number of users registered in the library.
+**✅ Total number of users registered in the library.
 
-**✅ N**umber of books borrowed by a specific user.
+**✅ Number of books borrowed by a specific user.
 
-**✅ B**ooks borrowed by a particular user.
+**✅ Books borrowed by a particular user.
 
-**✅ H**ow many books have been returned and how many are still on loan?
+**✅ How many books have been returned and how many are still on loan?
 
-**✅ T**he most prolific author in the database.
+**✅ The most prolific author in the database.
 
-**✅ T**he oldest book in the database.
+**✅ The oldest book in the database.
 
-**✅ T**otal number of loans made in the database.
+**✅ Total number of loans made in the database.
 
-**✅ H**ow many books are currently on loan?
+**✅ How many books are currently on loan?
 
-**✅ H**ow many books a particular user has borrowed in a specific year?
+**✅ How many books a particular user has borrowed in a specific year?
 
-**✅ T**he most popular book in the database (the most borrowed).
+**✅ The most popular book in the database (the most borrowed).
 
-**✅ N**ext due date for a borrowed book.
+**✅ Next due date for a borrowed book.
 
-**✅ T**he user who has borrowed the most books overall.
-
-## Contribution
-
-Feel free to contribute new features, bug fixes, or enhancements to the system! Just open an issue or submit a pull request on the project repository.
+**✅ The user who has borrowed the most books overall.
 
 ## Author
 
