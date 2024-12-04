@@ -1,4 +1,4 @@
-# Analyzing a Library with SQL 📚
+# Analyzing a Library with SQL 
 [![SQL](https://img.shields.io/badge/MySQL-8.0+-f29221?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://mysql.com)
 
 # Library Management System
